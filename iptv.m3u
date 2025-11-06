@@ -33,9 +33,9 @@ rtp://239.3.1.60:8084
 rtp://239.3.1.172:8001
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际[高清]
 rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV4EUO" group-title="央视",CCTV-4 中文国际 欧洲[高清]
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视",CCTV-4 中文国际 欧洲[高清]
 rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-name="CCTV4AME" group-title="央视",CCTV-4 中文国际 美洲[高清]
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视",CCTV-4 中文国际 美洲[高清]
 rtp://239.3.1.214:4220
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5 体育[高清]
 rtp://239.3.1.173:8001
