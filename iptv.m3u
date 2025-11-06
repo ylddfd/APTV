@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="北京卫视"  group-title="超清",BRTV北京卫视[超清HDR]
+#EXTINF:-1 tvg-name="北京卫视" group-title="超清",BRTV北京卫视[超清HDR]
 rtp://239.3.1.118:8001
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",BRTV北京卫视[高清]
 rtp://239.3.1.241:8000
@@ -23,7 +23,7 @@ rtp://239.3.1.115:8000
 rtp://239.3.1.189:8000
 #EXTINF:-1 tvg-name="BTV体育" group-title="北京",BRTV体育休闲[高清]
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-name="BRTV国际" group-title="北京",BRTV国际频道[超清]
+#EXTINF:-1 tvg-name="北京国际" group-title="北京",BRTV国际频道[超清]
 rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1 综合[高清]
 rtp://239.3.1.129:8008
