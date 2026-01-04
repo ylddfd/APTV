@@ -1,30 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="北京卫视" group-title="超清",BRTV北京卫视[超清HDR]
-rtp://239.3.1.118:8001
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",BRTV北京卫视[高清]
-rtp://239.3.1.241:8000
-#EXTINF:-1 tvg-name="北京卫视" group-title="北京",BRTV北京卫视[超清]
-rtp://239.3.1.22:8001
-#EXTINF:-1 tvg-name="BTV新闻" group-title="北京",BRTV新闻[高清]
-rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视" group-title="北京",BRTV影视[高清]
-rtp://239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺" group-title="北京",BRTV文艺[高清]
-rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经" group-title="北京",BRTV财经[高清]
-rtp://239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活" group-title="北京",BRTV生活[高清]
-rtp://239.3.1.117:8000
-# #EXTINF:-1 tvg-name="BTV青年" group-title="北京",BRTV青年[高清]
-# rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV科教" group-title="北京",BRTV纪实科教[高清]
-rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画" group-title="北京",BRTV卡酷少儿[高清]
-rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-name="BTV体育" group-title="北京",BRTV体育休闲[高清]
-rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-name="北京国际" group-title="北京",BRTV国际频道[超清]
-rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1 综合[高清]
 rtp://239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2 财经[高清]
@@ -69,6 +43,12 @@ rtp://239.3.1.184:8001
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K 超高清[超清HDR]
 rtp://239.3.1.245:2000
+#EXTINF:-1 tvg-name="北京卫视" group-title="超清",BRTV北京卫视[超清HDR]
+rtp://239.3.1.118:8001
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",BRTV北京卫视[高清]
+rtp://239.3.1.241:8000
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京",BRTV北京卫视[超清]
+rtp://239.3.1.22:8001
 #EXTINF:-1 tvg-name="湖南卫视" group-title="超清",湖南卫视[超清HDR]
 rtp://239.3.1.112:3002
 #EXTINF:-1 tvg-name="东方卫视" group-title="超清",东方卫视[超清HDR]
@@ -155,3 +135,23 @@ rtp://239.3.1.41:8140
 rtp://239.3.1.44:8184
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 rtp://239.3.1.43:8176
+#EXTINF:-1 tvg-name="BTV新闻" group-title="北京",BRTV新闻[高清]
+rtp://239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视" group-title="北京",BRTV影视[高清]
+rtp://239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺" group-title="北京",BRTV文艺[高清]
+rtp://239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经" group-title="北京",BRTV财经[高清]
+rtp://239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活" group-title="北京",BRTV生活[高清]
+rtp://239.3.1.117:8000
+# #EXTINF:-1 tvg-name="BTV青年" group-title="北京",BRTV青年[高清]
+# rtp://239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教" group-title="北京",BRTV纪实科教[高清]
+rtp://239.3.1.115:8000
+#EXTINF:-1 tvg-name="卡酷动画" group-title="北京",BRTV卡酷少儿[高清]
+rtp://239.3.1.189:8000
+#EXTINF:-1 tvg-name="BTV体育" group-title="北京",BRTV体育休闲[高清]
+rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-name="北京国际" group-title="北京",BRTV国际频道[超清]
+rtp://239.3.1.235:8000
