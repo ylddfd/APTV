@@ -23,7 +23,7 @@ http://192.168.1.100:7088/rtp/239.3.1.61:8104
 http://192.168.1.100:7088/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226038/10000100000000060000000000285834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-9 纪录[高清]
 http://192.168.1.100:7088/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视' catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226033/10000100000000060000000000285835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教[高清]
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226033/10000100000000060000000000285835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教[高清]
 http://192.168.1.100:7088/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226086/10000100000000060000000000753288_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-11 戏曲[高清]
 http://192.168.1.100:7088/rtp/239.3.1.152:8120
