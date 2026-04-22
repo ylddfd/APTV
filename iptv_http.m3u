@@ -3,3 +3,155 @@
 http://192.168.1.100:7088/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226036/10000100000000060000000000285832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经[高清]
 http://192.168.1.100:7088/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226100/10000100000000060000000000831268_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-3 综艺[高清]
+http://192.168.1.100:7088/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226081/10000100000000060000000000545704_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际[高清]
+http://192.168.1.100:7088/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226138/10000100000000060000000001154838_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际 欧洲[高清]
+http://192.168.1.100:7088/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226149/10000100000000060000000001154841_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际 美洲[高清]
+http://192.168.1.100:7088/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5 体育[高清]
+http://192.168.1.100:7088/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225819/10000100000000060000000000025043_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5+ 体育赛事[高清]
+http://192.168.1.100:7088/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6 电影[高清]
+http://192.168.1.100:7088/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226031/10000100000000060000000000285833_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-7 国防军事[高清]
+http://192.168.1.100:7088/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226115/10000100000000060000000000831271_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-8 电视剧[高清]
+http://192.168.1.100:7088/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226038/10000100000000060000000000285834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-9 纪录[高清]
+http://192.168.1.100:7088/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视' catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226033/10000100000000060000000000285835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教[高清]
+http://192.168.1.100:7088/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226086/10000100000000060000000000753288_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-11 戏曲[高清]
+http://192.168.1.100:7088/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226040/10000100000000060000000000285836_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-12 社会与法[高清]
+http://192.168.1.100:7088/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226145/10000100000000060000000001103864_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-13 新闻[高清]
+http://192.168.1.100:7088/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226035/10000100000000060000000000285837_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-14 少儿[高清]
+http://192.168.1.100:7088/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226099/10000100000000060000000000753287_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-15 音乐[高清]
+http://192.168.1.100:7088/rtp/239.3.1.153:8136
+# #EXTINF:-1 tvg-name="CCTV16" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226148/10000100000000060000000001234273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克[超清HDR]
+# http://192.168.1.100:7088/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视",CCTV-16 奥林匹克[高清]
+http://192.168.1.100:7088/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226095/10000100000000060000000000705941_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村[高清]
+http://192.168.1.100:7088/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K 超高清[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.245:2000
+#EXTINF:-1 tvg-name="北京卫视" group-title="超清",BRTV北京卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.118:8001
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV北京卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京",BRTV北京卫视[超清]
+http://192.168.1.100:7088/rtp/239.3.1.22:8001
+#EXTINF:-1 tvg-name="湖南卫视" group-title="超清",湖南卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.112:3002
+#EXTINF:-1 tvg-name="东方卫视" group-title="超清",东方卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.119:3006
+#EXTINF:-1 tvg-name="浙江卫视" group-title="超清",浙江卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.114:3004
+#EXTINF:-1 tvg-name="江苏卫视" group-title="超清",江苏卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.113:3003
+#EXTINF:-1 tvg-name="深圳卫视" group-title="超清",深圳卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.28:2000
+#EXTINF:-1 tvg-name="广东卫视" group-title="超清",广东卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.27:2000
+#EXTINF:-1 tvg-name="山东卫视" group-title="超清",山东卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.144:3005
+#EXTINF:-1 tvg-name="四川卫视" group-title="超清",四川卫视[超清HDR]
+http://192.168.1.100:7088/rtp/239.3.1.131:3001
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225871/10000100000000060000000000025095_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225883/10000100000000060000000000025534_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225957/10000100000000060000000000146902_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225881/10000100000000060000000000025507_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225869/10000100000000060000000000025093_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225983/10000100000000060000000000176932_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225999/10000100000000060000000000205203_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225984/10000100000000060000000000176931_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226147/10000100000000060000000001103866_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225864/10000100000000060000000000025092_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226082/10000100000000060000000000736149_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226189/382569577.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.50:8184
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226000/10000100000000060000000000205199_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225956/10000100000000060000000000146903_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226097/10000100000000060000000000736148_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226101/10000100000000060000000000793946_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226197/397709753.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.201:8180
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226199/400975082.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",兵团卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.168:8196
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.169:8212
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226201/400975092.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.167:8192
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226192/400975121.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.166:8188
+#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225842/10000100000000060000000000025071_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
+http://192.168.1.100:7088/rtp/239.3.1.45:8304
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225827/10000100000000060000000000025051_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
+http://192.168.1.100:7088/rtp/239.3.1.26:8108
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225990/10000100000000060000000000176937_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",厦门卫视
+http://192.168.1.100:7088/rtp/239.3.1.143:4120
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
+http://192.168.1.100:7088/rtp/239.3.1.29:8288
+# #EXTINF:-1 tvg-name="南方卫视" group-title="卫视",大湾区卫视
+# http://192.168.1.100:7088/rtp/239.3.1.161:8001
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225843/10000100000000060000000000025066_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山西卫视
+http://192.168.1.100:7088/rtp/239.3.1.42:8172
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225840/10000100000000060000000000025069_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
+http://192.168.1.100:7088/rtp/239.3.1.39:8300
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226088/10000100000000060000000000793947_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
+http://192.168.1.100:7088/rtp/239.3.1.155:4120
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225836/10000100000000060000000000025065_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
+http://192.168.1.100:7088/rtp/239.3.1.41:8140
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225847/10000100000000060000000000025070_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
+http://192.168.1.100:7088/rtp/239.3.1.44:8184
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225845/10000100000000060000000000025068_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
+http://192.168.1.100:7088/rtp/239.3.1.43:8176
+#EXTINF:-1 tvg-name="BTV新闻" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226092/10000100000000060000000000804251_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV新闻[高清]
+http://192.168.1.100:7088/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV影视[高清]
+http://192.168.1.100:7088/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225868/10000100000000060000000000025097_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV文艺[高清]
+http://192.168.1.100:7088/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226134/10000100000000060000000001010593_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV财经[高清]
+http://192.168.1.100:7088/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226141/10000100000000060000000001010592_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV生活[高清]
+http://192.168.1.100:7088/rtp/239.3.1.117:8000
+# #EXTINF:-1 tvg-name="BTV青年" group-title="北京",BRTV青年[高清]
+# http://192.168.1.100:7088/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226143/10000100000000060000000001010594_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV纪实科教[高清]
+http://192.168.1.100:7088/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-name="卡酷动画" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221226133/10000100000000060000000000943150_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV卡酷少儿[高清]
+http://192.168.1.100:7088/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="BTV体育" group-title="北京",BRTV体育休闲[高清]
+http://192.168.1.100:7088/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="北京国际" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225804/10000100000000060000000000025033_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV国际频道[超清]
+http://192.168.1.100:7088/rtp/239.3.1.235:8000
