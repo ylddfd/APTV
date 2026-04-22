@@ -47,7 +47,7 @@ http://192.168.1.100:7088/rtp/239.3.1.118:8001
 http://192.168.1.100:7088/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="北京卫视" group-title="北京" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BRTV北京卫视[超清]
 http://192.168.1.100:7088/rtp/239.3.1.22:8001
-#EXTINF:-1 tvg-name="湖南卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225871/10000100000000060000000000025095_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss},湖南卫视[超清HDR]
+#EXTINF:-1 tvg-name="湖南卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225871/10000100000000060000000000025095_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视[超清HDR]
 http://192.168.1.100:7088/rtp/239.3.1.112:3002
 #EXTINF:-1 tvg-name="东方卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:7088/rtsp/61.135.88.136/TVOD/88888892/224/3221225883/10000100000000060000000000025534_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视[超清HDR]
 http://192.168.1.100:7088/rtp/239.3.1.119:3006
