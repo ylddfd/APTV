@@ -59,7 +59,7 @@ http://192.168.1.100:5018/rtp/239.3.1.113:3003
 http://192.168.1.100:5018/rtp/239.3.1.28:2000
 #EXTINF:-1 tvg-name="广东卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:5018/rtsp/61.135.88.136/TVOD/88888892/224/3221225983/10000100000000060000000000176932_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视[超清HDR]
 http://192.168.1.100:5018/rtp/239.3.1.27:2000
-#EXTINF:-1 tvg-name="山东卫视" group-title="超清" catchup-source="http://192.168.1.100:5018/rtsp/61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视[超清HDR]
+#EXTINF:-1 tvg-name="山东卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:5018/rtsp/61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视[超清HDR]
 http://192.168.1.100:5018/rtp/239.3.1.144:3005
 #EXTINF:-1 tvg-name="四川卫视" group-title="超清" catchup="default" catchup-source="http://192.168.1.100:5018/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视[超清HDR]
 http://192.168.1.100:5018/rtp/239.3.1.131:3001
